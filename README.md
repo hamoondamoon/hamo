@@ -1,2 +1,2 @@
-![設定](https://github.com/hamoondamoon/hamo/master/settings.jpg)
+![設定](https://raw.githubusercontent.com/hamoondamoon/hamo/master/settings.jpg)
 
